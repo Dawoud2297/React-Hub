@@ -1,5 +1,8 @@
 # See https://help.github.com/articles/ignoring-files/ for more about ignoring files.
 
+/src/Try.js
+/src/Try2.js
+
 # dependencies
 /node_modules
 /.pnp
