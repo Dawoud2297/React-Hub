@@ -21,7 +21,7 @@ import Try2 from './Try2';
 // import UseEffectVsComDidMount from './composition/UseEffectVsComDidMount';
 // import UseReducer from './composition/UseReducer';
 // import MyComponent from './inheritance/ClassWithoutEs6';
-// import FirstClass from './inheritance/FirstClass';
+// import CustomMethods from './inheritance/CustomMethods';
 
 function App() {
   // const windowSize = useWindowSize();
